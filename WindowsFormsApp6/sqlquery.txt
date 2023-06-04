@@ -1,0 +1,8 @@
+CREATE TABLE adminsignup (
+    id INT NOT NULL,
+    name VARCHAR(35) NOT NULL,
+    username VARCHAR(35) NOT NULL,
+    password VARCHAR(25) NOT NULL,
+    email VARCHAR(50) NOT NULL,
+    cnic nVARCHAR(15) NOT NULL
+);
